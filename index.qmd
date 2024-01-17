@@ -3,7 +3,7 @@ title: "Background"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/CoverSlide2.jpg
 ---
 
 :::{#me}
