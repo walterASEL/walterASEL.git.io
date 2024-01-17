@@ -11,7 +11,7 @@ website:
       - projects.qmd
     tools:
       - icon: twitter
-        href: https://twitter.com/
+        href: https://twitter.com/walterASEL
       - icon: github
         href: https://github.com/walterASEL/walterASEL.git.io
   page-footer:
