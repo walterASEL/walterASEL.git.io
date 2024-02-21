@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 ---
+### Peer-reviewed
 
 Kilpatrick, H.J., and W.D. Walter. 1997. Urban deer management: a community vote. Wildlife Society Bulletin 25:388–390.
 
@@ -90,7 +91,7 @@ Fischer, J.W., D. McMurtry, C.R. Blass, W.D. Walter, J. Beringer, and K.C. VerCa
 
 Fischer, J.W., C.R. Blass, W.D. Walter, C.W. Anderson, M.J. Lavelle, W.H. Hall, and K.C. VerCauteren. 2016. Evaluating a strategy to deliver vaccine to white-tailed deer at a landscape level. Wildlife Society Bulletin 40(2):394–399
 
-B45 King, D.T., J.W. Fischer, B. Strickland, W.D. Walter, F.L. Cunningham, and G. Wang. 2016. Winter and summer home ranges of American white pelicans (Pelecanus erythrorhyn- chos) captured at loafing sites in the southeastern United States. Waterbirds 39(3):287–294
+King, D.T., J.W. Fischer, B. Strickland, W.D. Walter, F.L. Cunningham, and G. Wang. 2016. Winter and summer home ranges of American white pelicans (Pelecanus erythrorhyn- chos) captured at loafing sites in the southeastern United States. Waterbirds 39(3):287–294
 
 Miller, W.L. and W.D. Walter. 2017. CWDPRNP: 2017 a tool for cervid prion sequence analysis in program R. Bioinformatics 33(19):3096–3097
 
@@ -140,7 +141,7 @@ Diefenbach, D. R., M. J. Cherry, S. D. Cote, R. W. DeYoung, S. A. Gallina Tessar
 
 Gundermann, K. P., D. R. Diefenbach, W.D. Walter, A. M. Corondi, J. E. Banfield, B.D. Wallingford, D. P. Stainbrook, C. S. Rosenberry, and F. E. Buderman. 2023. Change- point models for identifying behavioral transitions in wild animals. Movement Ecology 11, 65
 
-Published data and code
+### Published Data and Code
 
 Walter, W.D. and J.W. Fischer. 2014. Manual of Applied Spatial Ecology.
 https://ecosystems.psu.edu/research/labs/walter-lab/manual
@@ -173,8 +174,8 @@ Hanley, B. J, C.I. Mitchell, W.D. Walter, D.P. Walsh, C.S. Jennelle, N.A. Hollin
 
 Bondo, K.J. and W.D. Walter. Comparing datasets by surveillance method using spatial models. Version 1.0.0: U.S. Geological Survey software release. Reston, VA. https://doi. org/10.5066/P9348BA8. BAO approval: 12/2023; IPDS: IP-159716.
 
-Submitted manuscripts
 
+### Submitted manuscripts
 
 Atmeh, K., C. et al. 2024. Neonatal antipredator tactics shape female movement patterns in large herbivores. Nature in Ecology and Evolution
 
@@ -188,7 +189,7 @@ Walter, W.D., B. Hanley, C.E. Them, C. Mitchell, J.D. Kelly, D. Grove, N. Hollin
 
 Walter, W.D., A. Fameli, K. Russo-Petrick, J.E. Edson, C.S. Rosenberry, K.L. Schuler, M.J. Tonkovich. Large-scale assessment of genetic structure to assess risk of populations of a large herbivore to chronic wasting disease. Ecology and Evolution. 
 
-Unpublished technical reports
+### Unpublished Technical Reports
 
 Kilpatrick, H.J., M.A. Gregonis, Walter, W.D., K.K. Lima, and K.A. Eccleston. 1996. Wild turkey program annual report, 1995. Connecticut Department of Environmental Protection, Wildlife Division. Hartford, CT. 27pp.
 
