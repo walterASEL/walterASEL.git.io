@@ -2,16 +2,14 @@
 title: "Manual"
 ---
 
-### Manual of Applied Spatial Ecology
+[Manual of Applied Spatial Ecology](https://github.com/walterASEL/Manual-of-Applied-Spatial-Ecology){.external target="_blank"}
 
-[Dataset](https://github.com/walterASEL/Manual-of-Applied-Spatial-Ecology){.external target="_blank"}
+The original Manual of Applied Spatial Ecology (hereafter referred to as *Manual*) went online in 2014 with a 173 page manual created in Latex and scripts/datasets available on GitHub a short time thereafter. Since the scripts were .R files, they were then converted into .Rmd files in attempts to create stand-alone pdfs for each chapter. Latex of the entire compilation was too time consuming to maintain so .Rmds for each exercise were an early solution. The resulting chapter pdfs were created with every update and version of each exercise pushed to GitHub to easily update code or package changes. Although the manual pdf was not edited or changed since 2016, the pdfs within each exercise on GitHub were updated each year.
 
-**Manual**:
+Fast forward to 2023, I was challenged with whether it was even worth maintaining this *Manual* considering so many R packages and code were required to be published with most manuscripts. In addition, with the increase in spatial data available and R code to prepare spatial data (some within my own lab), several chapters in the *Manual* seem outdated with no reason to maintain these chapters (Chapter 2 for example). Combine that with deprecating of packages rgdal and raster for their equivalents, sf and terra, respectively, most exercises in the *Manual* would no longer be functional after December 2023.
 
-Advances in technology have resulted in large spatial datasets for aquatic and terrestrial populations that requires data compilation and analysis for making sound resource management and conservation decisions. From GIS and GPS dataset manipulation to traditional estimators of home range, this course will provide hands-on learning to handle a variety of datasets all within the free software R (R Foundation for Statistical Computing, Vienna, Austria). You will develop skills in understanding and processing complex datasets without ever needing ArcMap or related costly programs.
-
+The impetus for creating this manual in 2014, however, was a place to store code and revisit functions and code I created or found online in one place to use on new projects. GitHub provides a nice portal to store and organize code that might not be published and for my exercises to be available for graduate students in my course at The Pennsylvania State University - [Applied Spatial Ecology in R](https://ecosystems.psu.edu/research/labs/walter-lab/manual){.external target="_blank"}.  Even though I have countless scripts and functions that are not available in the *Manual*, maintaining R code (GitHub) and a pdf manual (bookdown or similar) has never been easier. With this in mind, the link on my lab webpage and in this paragraph will stay as an archive as long as the university allows it, but the new manual and all updates will move to my [GitHub page](https://github.com/walterASEL){.external target="_blank"} under a new repository in the link at the top of the page.
 
 *Contact*
 
-W. David Walter at wdw12@psu.edu to be included in email list for updates
-
+W. David Walter at wdw12@psu.edu with any questions
