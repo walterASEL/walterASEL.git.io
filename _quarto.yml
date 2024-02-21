@@ -20,6 +20,7 @@ website:
         href: https://github.com/walterASEL
       - icon: linkedin
         href: https://www.linkedin.com/in/w-david-walter-4434a094/
+  
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2024, W. David Walter"
@@ -29,5 +30,6 @@ format:
     theme: darkly
     toc: true
 
+css: style.css
 editor: source
 
