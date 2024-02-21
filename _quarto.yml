@@ -8,9 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - about.md  
       - research.md
       - publications.md
       - projects.md
+      - workshop.md
+      - manual.md
     tools:
       - icon: envelope
         href: mailto:wdw12@psu
@@ -29,6 +32,8 @@ format:
   html:
     theme: darkly
     toc: true
+    link-external-icon: true
+    link-external-newwindow: true
 
 css: style.css
 editor: source
