@@ -12,7 +12,7 @@ website:
       - publications.md
       - projects.md
     tools:
-      - icon: Email
+      - icon: envelope
         href: mailto:wdw12@psu
       - icon: twitter
         href: https://twitter.com/walterASEL
