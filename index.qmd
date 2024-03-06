@@ -7,7 +7,7 @@ about:
 ---
 
 :::{#me}
-
+## W. David Walter
 I am the Assistant Unit Leader at the Pennsylvania Cooperative Fish and Wildlife Research Unit (Unit) and serve as Adjunct Associate Professor of Wildlife Ecology in the Department of Ecosystem Science and Management (Department) at The Pennsylvania State University (PSU).
 
 ## Education
