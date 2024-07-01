@@ -4,17 +4,56 @@ title: "Lab Members"
 ### Research Staff
 
 **Jessie Edson** - Genetics Laboratory Manager
+![Research Technologist III](img/Edson.png)
 
 **Alec Baker** - Field Research Support
+![Research Technologist III](img/Baker.png)
+
 
 ### Graduate Students
 
 **Tyler Walters** - MS - Ecology
+![Masters](img/Walters.png)
+
+**Abby Weber** - PhD - Ecology
+![PhD](img/Weber.png)
 
 ### Post Docs
 
 **Alberto Fameli**
 
+![Post Doc](img/Fameli.png)
+
+**Wantida (Wow) Horpiencharoen**
+![Post Doc](img/Wow.png)
+
+**Nate Wehr**
+![Post Doc](img/Wehr.png)
+
 ### Alumni
 
+**Kristin Bondo** (Post doc) - Current: Research Associate at MNPRO
+![Current - MNPRO Post Doc](img/Bondo.png)
 
+**Chia-Hua Lue** (Post doc) - Current: Assistant Professor
+![Current - MNPRO Post Doc](img/Lue.png)
+
+**Avery Corondi** (MS - Wildlife and Fisheries and Sciences) - Current: Elk Hollow Wildlife Consulting LLC.
+![Current - MNPRO Post Doc](img/Corondi.png)
+
+**Kelly Russo-Petrick** (Post doc)
+![Current - MNPRO Post Doc](img/Russo.png)
+
+**Laken Ganoe** (MS - Wildlife and Fisheries and Sciences) - Current: Post Doc at University of Rhode Island
+
+**Emily Carrollo** (MS - Wildlife and Fisheries and Sciences) - Current: Pantera
+![Current - Pantera](img/Carrollo.png)
+
+**Will Miller** (PhD - Ecology) - Current: Assistant Professor at Calvin University
+![Current - MNPRO Post Doc](img/Miller.png)
+
+**Nick Forman** (MS - Wildlife and Fisheries and Sciences) - Current: PhD assistantship at Mississippi State University
+![Current - MNPRO Post Doc](img/Forman.png)
+
+**Tyler Evans** (MS - Wildlife and Fisheries and Sciences) - Current: PhD assistantship at Mississippi State University
+![Current - MNPRO Post Doc](img/Evans.png)
