@@ -5,7 +5,7 @@ title: "Workshops"
 ### Applied Spatial Ecology in R Workshop
 
 
-**When**:  September 2024 - In person only; exact dates TBD
+**When**:  24 - 25 September 2024 - In person only
 
 **Where**: 217 Forest Resources Building
            The Pennsylvania State University
