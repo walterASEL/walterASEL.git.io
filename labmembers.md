@@ -6,14 +6,11 @@ title: "Lab Members"
 **Jessie Edson** - Genetics Laboratory Manager
 ![Research Technologist III](img/Edson.png)
 
-**Alec Baker** - Field Research Support
-![Research Technologist III](img/Baker.png)
+**Tyler Walters** - Field Research Support
+![Research Technologist III](img/Walters.png)
 
 
 ### Graduate Students
-
-**Tyler Walters** - MS - Ecology
-![Masters](img/Walters.png)
 
 **Abby Weber** - PhD - Ecology
 ![PhD](img/Weber.png)

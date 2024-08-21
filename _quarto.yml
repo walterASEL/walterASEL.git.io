@@ -1,20 +1,32 @@
 project:
   type: website
   output-dir: docs
-  
+  resources:
+   - WalterFullCV.pdf
+   - RegistrationForm.pdf
+
 website:
   title: "Walter Applied Spatial Ecology Laboratory"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.md  
-      - research.md
-      - labmembers.md
-      - publications.md
-      - projects.md
-      - workshop.md
-      - manual.md
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.md
+      - text: CV
+        href: cv/index.qmd
+      - text: Research
+        href: research.md
+      - text: Lab Members
+        href: labmembers.md
+      - text: Publications
+        href: publications.md
+      - text: Project
+        href: projects.md
+      - text: Workshops
+        href: RegForm/index.qmd
+      - text: Manual
+        href: manual.md
     tools:
       - icon: envelope
         href: mailto:wdw12@psu

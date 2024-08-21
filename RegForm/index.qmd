@@ -1,0 +1,87 @@
+---
+title: Registration Form
+description: "Applied Spatial Ecology Workshop Registration Form"
+date: 2024-08-20
+published-title: Form last updated
+engine: knitr
+freeze: false
+
+pdf: "RegistrationForm.pdf"
+---
+### Applied Spatial Ecology in R Workshop
+
+**When**:  24 - 25 September 2024 - In person only
+
+**Where**: 217 Forest Resources Building,
+           The Pennsylvania State University,
+           University Park, PA 16802
+
+**Workshop Objectives**:
+
+Advances in technology have resulted in large spatial datasets for aquatic and terrestrial populations that requires data compilation and analysis for making sound resource management and conservation decisions.  From GIS and GPS dataset manipulation to traditional estimators of home range, this course will provide hands-on learning to handle a variety of datasets all within the free software Program R (\href{https://www.r-project.org/}{R Foundation for Statistical Computing}).  You will develop skills in understanding and processing complex datasets without ever needing ArcMap or related costly programs. In addition, packages *rgdal* and *raster* are no longer supported in Program R so new packages *terra* and *sf* will be explained to replace those older packages.
+
+**Fee**
+
+*Professionals*: $249; 
+
+*Students*: $100
+
+*Additional details:*
+
+- Includes refreshments and lunch for both days
+
+- Limited to 25 participants
+
+- Inquire about discounts for cooperators
+
+- Course not open to students enrolled at the Penn State University Main Campus
+
+*Contact*
+
+Send registration form to W. David Walter at wdw12@psu.edu or send email to be included in email list for updates
+
+```{css, echo=FALSE}
+#title-block-header .description {
+    display: none;
+}
+```
+
+```{css echo=FALSE}
+.embed-container {
+    position: relative;
+    padding-bottom: 129%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+```
+
+```{css}
+<object data="RegistrationForm.pdf" type="pdf/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="RegistrationForm.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+
+```{=html}
+<!-- <p class="text-center"> -->
+<!--   <a class="btn btn-primary btn-lg form-download" href="pdf/RegistrationForm.pdf" target="_blank"> -->
+<!--     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Registration Form -->
+<!--   </a> -->
+<!-- </p> -->
+
+<!-- <div class="embed-container"> -->
+<!--   <iframe src="pdf/RegistrationForm.pdf" style="border: 0.5px"></iframe> -->
+<!-- </div> -->
+```
