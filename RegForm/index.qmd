@@ -10,7 +10,7 @@ RegForm:
 ---
 ### Applied Spatial Ecology in R Workshop
 
-**When**:  24 - 25 September 2024 - In person only
+**When**:  24 - 25 September 2024 - CANCELED
 
 **Where**: 217 Forest Resources Building,
            The Pennsylvania State University,
