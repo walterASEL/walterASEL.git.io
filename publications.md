@@ -7,9 +7,11 @@ title: "Publications"
 
 Diefenbach, D. R., M. J. Cherry, S. D. Cote, R. W. DeYoung, S. A. Gallina Tessaro, B. R. Patterson, and W.D. Walter. 2024. Chapter 49. White-tailed Deer *Odocoileus virginianus* (Zimmerman 1780). In M. Mellotti and , Eds. Deer of the World. Springer *In press*. 
 
-Atmeh, K., et al. 2024. Neonatal antipredator tactics shape female movement patterns in large herbivores Nature in Ecology and Evolution. *In press*.
+Fameli, A., C.S. Jennelle, J. Edson, E. Hildebrand, M. Carstensen, and W.D. Walter. 2024. Relatedness of white-tailed deer from culling efforts within disease management zones in Minnesota. Special Issue on Advances in Chronic Wasting Disease, Pathogens 2025, 14, 67. https://doi.org/10.3390/pathogens14010067
 
-Corondi, A.M, J.D. Brown, J.E. Banfield, and W.D. Walter. 2024. Comparison of butorphanol-azaperone-medetomidine and nalbuphine-medetomidine-azaperone in free-ranging elk (*Cervus canadensis*) in Pennsylvania. Journal of Wildlife Diseases *In press*.
+Atmeh, K., et al. 2024. Neonatal antipredator tactics shape female movement patterns in large herbivores Nature in Ecology and Evolution. https://doi.org/10.1038/s41559-024-02565-8}{https://doi.org/10.1038/s41559-024-02565-8.
+
+Corondi, A.M, J.D. Brown, J.E. Banfield, and W.D. Walter. 2024. Comparison of butorphanol-azaperone-medetomidine and nalbuphine-medetomidine-azaperone in free-ranging elk (*Cervus canadensis*) in Pennsylvania. Journal of Wildlife Diseases 60(4): 950-955.
 
 Bondo, K.J., C.S. Rosenberry, D. Stainbrook, W.D. Walter. 2024. Comparing risk of chronic wastingdisease occurrence using Bayesian hierarchical spatial models and different surveillance types. Ecological Modeling 493:110756 10.1016/j.ecolmodel.2024.110756.
 
