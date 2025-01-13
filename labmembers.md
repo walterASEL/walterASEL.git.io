@@ -32,14 +32,14 @@ title: "Lab Members"
 **Kristin Bondo** (Post doc) - Current: Research Associate at MNPRO
 ![Current - MNPRO Post Doc](img/Bondo.png)
 
-**Chia-Hua Lue** (Post doc) - Current: Assistant Professor
+**Chia-Hua Lue** (Post doc) - Current: Assistant Professor, Hood College
 ![Current - MNPRO Post Doc](img/Lue.png)
 
 **Avery Corondi** (MS - Wildlife and Fisheries and Sciences) - Current: Elk Hollow Wildlife Consulting LLC.
 ![Current - MNPRO Post Doc](img/Corondi.png)
 
 **Kelly Russo-Petrick** (Post doc)
-![Current - MNPRO Post Doc](img/Russo.png)
+![Current - Project specialist at University of the District of Columbia](img/Russo.png)
 
 **Laken Ganoe** (MS - Wildlife and Fisheries and Sciences) - Current: Post Doc at University of Rhode Island
 
@@ -49,8 +49,9 @@ title: "Lab Members"
 **Will Miller** (PhD - Ecology) - Current: Assistant Professor at Calvin University
 ![Current - MNPRO Post Doc](img/Miller.png)
 
-**Nick Forman** (MS - Wildlife and Fisheries and Sciences) - Current: PhD assistantship at Mississippi State University
+**Nick Forman** (MS - Wildlife and Fisheries and Sciences) - Current: Carnivore and Small Mammal Program Manager
+New Mexico Dept. of Game and Fish
 ![Current - MNPRO Post Doc](img/Forman.png)
 
-**Tyler Evans** (MS - Wildlife and Fisheries and Sciences) - Current: PhD assistantship at Mississippi State University
+**Tyler Evans** (MS - Wildlife and Fisheries and Sciences) - Current: Recently completed PhD at Mississippi State University
 ![Current - MNPRO Post Doc](img/Evans.png)
