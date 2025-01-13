@@ -21,7 +21,7 @@ website:
         href: labmembers.md
       - text: Publications
         href: publications.md
-      - text: Project
+      - text: Projects
         href: projects.md
       - text: Workshops
         href: RegForm/index.qmd
