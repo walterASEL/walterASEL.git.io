@@ -7,7 +7,11 @@ title: "Publications"
 
 Diefenbach, D. R., M. J. Cherry, S. D. Cote, R. W. DeYoung, S. A. Gallina Tessaro, B. R. Patterson, and W.D. Walter. 2024. Chapter 49. White-tailed Deer *Odocoileus virginianus* (Zimmerman 1780). In M. Mellotti and , Eds. Deer of the World. Springer *In press*. 
 
-Fameli, A., C.S. Jennelle, J. Edson, E. Hildebrand, M. Carstensen, and W.D. Walter. 2024. Relatedness of white-tailed deer from culling efforts within disease management zones in Minnesota. Special Issue on Advances in Chronic Wasting Disease, Pathogens 2025, 14, 67. https://doi.org/10.3390/pathogens14010067
+Diefenbach, D. R., J. Trowbridge, A. Van Buskirk, T. McConnell, K. Lamp, T. A. Marques, W. D. Walter, B. D. Wallingford, and C. S. Rosenberry. 2025. Accounting for non-random samples with distance sampling to estimate population density. Journal of Applied Ecology.DOI: 10.1111/1365-2664.70006
+
+Walter, W.D., A. Herbst, C. Lue, J. Bartz, and M.C. Hopkins. 2025. Overview of North American isolates of chronic wasting disease used for strain research. Special Issue: Advances in Chronic Wasting Disease, Pathogens 14:250; https://doi.org/10.3390/pathogens14030250
+
+Fameli, A., C.S. Jennelle, J. Edson, E. Hildebrand, M. Carstensen, and W.D. Walter. 2024. Relatedness of white-tailed deer from culling efforts within disease management zones in Minnesota. Special Issue on Advances in Chronic Wasting Disease, Pathogens 14:67; https://doi.org/10.3390/pathogens14010067
 
 Atmeh, K., et al. 2024. Neonatal antipredator tactics shape female movement patterns in large herbivores Nature in Ecology and Evolution. https://doi.org/10.1038/s41559-024-02565-8}{https://doi.org/10.1038/s41559-024-02565-8.
 
@@ -54,7 +58,7 @@ Ensminger, D.C., C. Pritchard, T. Langkilde, T. Gingery, J.E. Banfield, and W.D.
 
 Ahrestani, F.S, M.A. Ternent, M.J. Lovallo, and W.D. Walter. 2020. Resource use by American black bears in suburbia: a landholder step selection approach. Human-Wildlife Interactions 14(2):11
 
-**Past (2000-2020)**
+**Past (2000-2019)**
 
 Kilpatrick, H.J., and W.D. Walter. 1997. Urban deer management: a community vote. Wildlife Society Bulletin 25:388–390.
 
