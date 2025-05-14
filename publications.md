@@ -7,7 +7,11 @@ title: "Publications"
 
 Diefenbach, D. R., M. J. Cherry, S. D. Cote, R. W. DeYoung, S. A. Gallina Tessaro, B. R. Patterson, and W.D. Walter. 2024. Chapter 49. White-tailed Deer *Odocoileus virginianus* (Zimmerman 1780). In M. Mellotti and , Eds. Deer of the World. Springer *In press*. 
 
-Diefenbach, D. R., J. Trowbridge, A. Van Buskirk, T. McConnell, K. Lamp, T. A. Marques, W. D. Walter, B. D. Wallingford, and C. S. Rosenberry. 2025. Accounting for non-random samples with distance sampling to estimate population density. Journal of Applied Ecology.DOI: 10.1111/1365-2664.70006
+Pepin, KM, MA Combs, G Bastille-Rousseau, ME Craft, P Cross, MA Diuk-Wasser, RB Gagne, T Gallo, T Garwood, JD Heale, J Hewitt, J Høy-Petersen, J Malmberg, J Mullinax, L Plimpton, L Smith, MC VanAcker, K VerCauteren, JC Chandler, WD Walter, G Wilson-Henjum, G Wittemyer, K Manlove. 2025. Expanding national-scale wildlife disease intelligence systems with research networks. Ecology and Evolution. In press
+
+Hewitt, J., G. Wilson-Henjum, J.C. Chandler, A. Phillips, D.G. Diel, W.D. Walter, A. Baker, J. Høy-Petersen, G. Bastille-Rousseau, T. Kishimoto, G. Wittemyer, J. Alder, K.R., S. Hathaway, K.R. Manlove, T. Gallo, J. Mullinax, C. Coriell, M. Payne, M.E. Craft, T.J. Garwood, T.M. Wolf, M.A. Diuk-Wasser, M.C. VanAcker, L.D. Plimton, M.Q. Wilber, D. Grove, J. Koseiwska, L.I. Muller, K.M. Pepin. 2025. Evaluation of SARS-CoV-2 antibody detection methods for wild Cervidae. Preventive Veterinary Medicine 106522.
+
+Diefenbach, D. R., J. Trowbridge, A. Van Buskirk, T. McConnell, K. Lamp, T. A. Marques, W. D. Walter, B. D. Wallingford, and C. S. Rosenberry. 2025. Accounting for non-random samples with distance sampling to estimate population density. Journal of Applied Ecology.62, 986–994. https://doi.org/10.1111/1365-2664.70006
 
 Walter, W.D., A. Herbst, C. Lue, J. Bartz, and M.C. Hopkins. 2025. Overview of North American isolates of chronic wasting disease used for strain research. Special Issue: Advances in Chronic Wasting Disease, Pathogens 14:250; https://doi.org/10.3390/pathogens14030250
 
@@ -201,9 +205,6 @@ Bondo, K.J. and W.D. Walter. Comparing datasets by surveillance method using spa
 
 ### Submitted manuscripts
 
-Bondo, K.J., D. Montecino-Latorre, L. Williams, M. Helwig, K. Duren, M. Hutchinson, and W.D. Walter. 2023. Workflow to acquire and process large spatial data and build complex models. PlosONE. 
-
-Fameli, A., C.S. Jennelle, J. Edson, E. Hildebrand, M. Carstensen, and W.D. Walter. 2023. Relatedness of white-tailed deer from culling efforts within disease management zones in Minnesota. 
 
 ### Unpublished Technical Reports
 
