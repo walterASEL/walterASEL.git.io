@@ -9,7 +9,7 @@ RegForm:
   pdf: "Announcement.pdf"
 ---
 ### Open Graduate Assistantships
-
+I currently do not have any open Graduate Assistantships available
 
 *Contact*
 

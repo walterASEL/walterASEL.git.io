@@ -19,6 +19,8 @@ website:
         href: research.md
       - text: Lab Members
         href: labmembers.md
+      - text: Join the Lab
+        href: Join the Lab/index.qmd
       - text: Publications
         href: publications.md
       - text: Projects
