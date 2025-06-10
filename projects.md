@@ -5,10 +5,11 @@ title: "Projects"
 ### Current Projects
 Study Title: Genetic assignment tests using single nucleotide polymorphisms in white-tailed deer as a management tool for chronic wasting disease; Role: Principal Investigator; Funding: U.S. Department of Agriculture’s Animal, Plant Health Inspection Service, Wildlife Services; Dates: September 2024–August 2025; Description: The absence of information regarding genetic structure and origin of CWD-positive deer in vast regions of the US is likely to reduce the effectiveness of CWD management. Genetic assignment tests to population of origin and subpopulation structuring have been applied in a small area in the Mid-Atlantic, USA using microsatellites but with limited success (Miller and Walter 2020, Walter et al. 2024). We will expand this effort by adding samples from Delaware, District of Columbia, Maryland, Ohio, New Jersey, New York, and Pennsylvania, using SNPs instead of microsatellites. In addition, information about alleles influencing CWD susceptibility constitutes a foundation for a genomics-based CWD control.  
 
-This study has three primary objectives:
-Evaluate population structure of white-tailed deer in the region using single nucleotide polymorphisms (SNPs) genotyping for comparison to completed population structure using microsatellites
-Develop method for genetic assignment tests to infer subpopulation of origin of wild white-tailed deer using SNPs
-Assess the possibility of differential susceptibility to CWD in wild deer based on SNP genotypes, identifying alleles associated with susceptibility in the wild.
+This study has three primary objectives: 
+
+1) Evaluate population structure of white-tailed deer in the region using single nucleotide polymorphisms (SNPs) genotyping for comparison to completed population structure using microsatellites,
+2) Develop method for genetic assignment tests to infer subpopulation of origin of wild white-tailed deer using SNPs, and
+3) Assess the possibility of differential susceptibility to CWD in wild deer based on SNP genotypes, identifying alleles associated with susceptibility in the wild.
 
 ![With single nucleotide polymorphisms (SNPs), we selected a subset of samples from our previous microsatellite dataset for analysis with commercially available SNPS we provided tissue for from 2019 to 2022 [White-tailed Deer Genetic Resources](https://storymaps.arcgis.com/stories/9794d395588b45d7a055e86bf42d602b).](img/SNPsto2024text.jpg)
 
