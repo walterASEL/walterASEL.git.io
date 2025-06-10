@@ -45,7 +45,7 @@ Send application materials to W. David Walter at wdw12@psu.edu
 
 ```{=html}
 <p class="text-center">
-  <a class="btn btn-primary btn-lg form-download" href="`r rmarkdown::metadata$RegForm$pdf`" target="_blank">
+  <a class="btn btn-primary btn-lg form-download" href="`r rmarkdown::metadata$Announcement$pdf`" target="_blank">
     <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Announcement
   </a>
 </p>
