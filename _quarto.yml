@@ -23,6 +23,8 @@ website:
         href: Join the Lab/index.qmd
       - text: Publications
         href: publications.md
+      - text: Presentations
+        href: Presentations/index.qmd
       - text: Projects
         href: projects.md
       - text: Workshops

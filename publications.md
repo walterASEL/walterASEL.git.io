@@ -17,7 +17,7 @@ Walter, W.D., A. Herbst, C. Lue, J. Bartz, and M.C. Hopkins. 2025. Overview of N
 
 Fameli, A., C.S. Jennelle, J. Edson, E. Hildebrand, M. Carstensen, and W.D. Walter. 2024. Relatedness of white-tailed deer from culling efforts within disease management zones in Minnesota. Special Issue on Advances in Chronic Wasting Disease, Pathogens 14:67; https://doi.org/10.3390/pathogens14010067
 
-Atmeh, K., et al. 2024. Neonatal antipredator tactics shape female movement patterns in large herbivores Nature in Ecology and Evolution. https://doi.org/10.1038/s41559-024-02565-8}{https://doi.org/10.1038/s41559-024-02565-8.
+Atmeh, K., et al. 2024. Neonatal antipredator tactics shape female movement patterns in large herbivores. Nature in Ecology and Evolution. [https://doi.org/10.1038/s41559-024-02565-8](https://doi.org/10.1038/s41559-024-02565-8).
 
 Corondi, A.M, J.D. Brown, J.E. Banfield, and W.D. Walter. 2024. Comparison of butorphanol-azaperone-medetomidine and nalbuphine-medetomidine-azaperone in free-ranging elk (*Cervus canadensis*) in Pennsylvania. Journal of Wildlife Diseases 60(4): 950-955.
 
@@ -176,34 +176,45 @@ Walter, W.D. and J.W. Fischer. 2014. Manual of Applied Spatial Ecology.
 https://ecosystems.psu.edu/research/labs/walter-lab/manual
 
 Walter, W.D. and W. Miller. 2019. walterASEL/Miller-et-al.–Assignment: Initial (Version v01)[Dataset]. Zenodo. https://zenodo.org/record/3530546
-B72 William M. and W.D. Walter. 2020. Spatial genetic structure to identify populations at risk [Data set]. Zenodo. https://zenodo.org/record/3676888
+B72 William M. and W.D. Walter. 2020. Spatial genetic structure to identify populations at risk [Data set]. Zenodo. [https://zenodo.org/record/3676888](https://zenodo.org/record/3676888)
 
-Walter, W.D. 2020. Ensminger et al 2020 - Fecal glucocorticoid metabolites in harvested elk [Data set]. Zenodo. https://zenodo.org/record/3856428
-B74 Bauder, J. and W.D. Walter. 2021. Bauder Et Al. - Landscape features fail to explain spatial genetic structure (Version v2) [Data set]. Zenodo. https://zenodo.org/record/5142120
+Walter, W.D. 2020. Ensminger et al 2020 - Fecal glucocorticoid metabolites in harvested elk [Data set]. Zenodo. [https://zenodo.org/record/3856428](https://zenodo.org/record/3856428)
 
-Mitchell, C., Walter, W. D., Hollingshead, N., and Schuler, K. 2021. Processing of Geospa- tial Data for the Habitat Risk Software. Version 1.0.0: U.S. Geological Survey software release. Reston, Va. https://doi.org/10.5066/P9MR2N4H. 
+Bauder, J. and W.D. Walter. 2021. Bauder Et Al. - Landscape features fail to explain spatial genetic structure (Version v2) [Data set]. Zenodo. [https://zenodo.org/record/5142120](https://zenodo.org/record/5142120)
 
-Bondo, K.J., D. Montecino-Latorre, W.D. Walter. 2023. Spatial modeling of two mosquito vectors of West Nile virus using integrated nested Laplace approximations. Version 1.0.0: U.S. Geological Survey software release. Reston, Va. https://doi.org/10.5066/P9QAB3ZZ. 
+Mitchell, C., Walter, W. D., Hollingshead, N., and Schuler, K. 2021. Processing of Geospa- tial Data for the Habitat Risk Software. Version 1.0.0: U.S. Geological Survey software release. Reston, Va. [https://doi.org/10.5066/P9MR2N4H](https://doi.org/10.5066/P9MR2N4H). 
 
-Bondo, K.J., D. Montecino-Latorre, W.D. Walter. 2023. Workflow to acquire and process large spatial data and build complex models. Version 1.0.0: U.S. Geological Survey software release. Reston, Va. https://doi.org/10.5066/P9ONHXN3. 
+Bondo, K.J., D. Montecino-Latorre, W.D. Walter. 2023. Spatial modeling of two mosquito vectors of West Nile virus using integrated nested Laplace approximations. Version 1.0.0: U.S. Geological Survey software release. Reston, Va. [https://doi.org/10.5066/P9QAB3ZZ](https://doi.org/10.5066/P9QAB3ZZ). 
 
-Pearce, D.L. and W.D. Walter. 2023. Evaluation of DNA yield from various tissue and sampling sources for use in single nucleotide polymorphism panels. Version 1.0.0: U.S. Geological Survey software release. Reston, Va. https://doi.org/10.5066/P96QMZUE. 
+Bondo, K.J., D. Montecino-Latorre, W.D. Walter. 2023. Workflow to acquire and process large spatial data and build complex models. Version 1.0.0: U.S. Geological Survey software release. Reston, Va. [https://doi.org/10.5066/P9ONHXN3](https://doi.org/10.5066/P9ONHXN3). 
 
-Walter, W.D. and *D. Pearce. 2023. Evaluation of DNA yield from various sources for use in single nucleotide polymorphism panels. U.S. Geological Survey data release. Reston, Va. https://doi.org/10.5066/P96VPBSO. 
+Pearce, D.L. and W.D. Walter. 2023. Evaluation of DNA yield from various tissue and sampling sources for use in single nucleotide polymorphism panels. Version 1.0.0: U.S. Geological Survey software release. Reston, Va. [https://doi.org/10.5066/P96QMZUE](https://doi.org/10.5066/P96QMZUE). 
 
-Hanley, B.J., C. I. Mitchell, W.D. Walter, J. Kelly, D. Grove, R.C. Abbott, N. Hollingshead, and K.L. Schuler. 2023. Habitat Risk Software. U.S. Geological Survey software release. Reston, Va. https://doi.org/10.5066/P9541B7T. 
+Walter, W.D. and D. Pearce. 2023. Evaluation of DNA yield from various sources for use in single nucleotide polymorphism panels. U.S. Geological Survey data release. Reston, Va. [https://doi.org/10.5066/P96VPBSO](https://doi.org/10.5066/P96VPBSO). 
 
-Walter, W.D., Hollingshead, N., Kelly, J., Grove, D., Abbot, R., and Schuler, K. 2023. Input for Habitat Risk Software. Version 1.0.0: U.S. Geological Survey data release. Reston, Va. https://doi.org/10.5066/P9CMQWRB. 
+Hanley, B.J., C. I. Mitchell, W.D. Walter, J. Kelly, D. Grove, R.C. Abbott, N. Hollingshead, and K.L. Schuler. 2023. Habitat Risk Software. U.S. Geological Survey software release. Reston, Va. [https://doi.org/10.5066/P9541B7T](https://doi.org/10.5066/P9541B7T). 
 
-Fameli, A., K. Russo-Petrick, J.E. Edson, and W.D. Walter. 2023. Population genetic structure of white-tailed deer using microsatellites across the Mid-Atlantic. Version 1.0.0: U.S. Geological Survey software release. Reston, Va. https://doi.org/10.5066/P9XBNYCR. 
+Walter, W.D., Hollingshead, N., Kelly, J., Grove, D., Abbot, R., and Schuler, K. 2023. Input for Habitat Risk Software. Version 1.0.0: U.S. Geological Survey data release. Reston, Va. [https://doi.org/10.5066/P9CMQWRB](https://doi.org/10.5066/P9CMQWRB). 
 
-Walter, W.D., A. Fameli, K. Russo-Petrick, J.E. Edson. 2023. Microsatellite genotypes and metadata for white-tailed deer samples from the Mid-Atlantic region of USA: U.S. Geological Survey data release, https://doi.org/10.5066/P965MK53. 
+Fameli, A., K. Russo-Petrick, J.E. Edson, and W.D. Walter. 2023. Population genetic structure of white-tailed deer using microsatellites across the Mid-Atlantic. Version 1.0.0: U.S. Geological Survey software release. Reston, Va. [https://doi.org/10.5066/P9XBNYCR](https://doi.org/10.5066/P9XBNYCR). 
 
-Hanley, B. J, C.I. Mitchell, W.D. Walter, D.P. Walsh, C.S. Jennelle, N.A. Hollingshead, R.C. Abbott, J.D. Kelly, D. Grove, E. Them,, S.A. Christensen, M.S. Ahmed, L.A. Miller, and K.L. Schuler. 2023. Chronic wasting disease surveillance optimization software (n×12). Version 1.0.0: U.S. Geological Survey software release. Reston, Va. https://doi.org/10. 5066/P9W7JVNJ. 
+Walter, W.D., A. Fameli, K. Russo-Petrick, J.E. Edson. 2023. Microsatellite genotypes and metadata for white-tailed deer samples from the Mid-Atlantic region of USA: U.S. Geological Survey data release, [https://doi.org/10.5066/P965MK53](https://doi.org/10.5066/P965MK53). 
 
-Bondo, K.J. and W.D. Walter. Comparing datasets by surveillance method using spatial models. Version 1.0.0: U.S. Geological Survey software release. Reston, VA. https://doi. org/10.5066/P9348BA8.
+Hanley, B. J, C.I. Mitchell, W.D. Walter, D.P. Walsh, C.S. Jennelle, N.A. Hollingshead, R.C. Abbott, J.D. Kelly, D. Grove, E. Them,, S.A. Christensen, M.S. Ahmed, L.A. Miller, and K.L. Schuler. 2023. Chronic wasting disease surveillance optimization software (n×12). Version 1.0.0: U.S. Geological Survey software release. Reston, Va. [https://doi.org/10.5066/P9W7JVNJ](https://doi.org/10.5066/P9W7JVNJ). 
 
-### Submitted manuscripts
+Bondo, K.J. and W.D. Walter. Comparing datasets by surveillance method using spatial models. Version 1.0.0: U.S. Geological Survey software release. Reston, VA. [https://doi.org/10.5066/P9348BA8](https://doi.org/10.5066/P9348BA8).
+
+Fameli, A.F., J. Edson, and W.D. Walter. 2024, White-tailed deer from culling efforts in Minnesota. U.S. Geological Survey data release, [https://doi.org/10.5066/P13BGPFC](https://doi.org/10.5066/P13BGPFC).
+
+Diefenbach, D., J. Trowbridge, A. Van Buskirk, T. McConnell, K. Lamp, T. Marques, W. Walter, B. Wallingford, and C. Rosenberry. 2024, Data for Distance sampling accounting for density gradient and animal distribution: U.S. Geological Survey data release, [https://doi.org/10.5066/P16QJRFW](https://doi.org/10.5066/P16QJRFW).
+
+Wehr, N. and W.D. Walter. 2025. Contact rates for identifying interactions of white-tailed deer in a chronic wasting disease management area: U.S. Geological Survey software release, [https://doi.org/10.5066/P14RVZKJ](https://doi.org/10.5066/P14RVZKJ)
+
+### Manuscripts in Review
+
+Wehr, N.H., K.J.  Bondo, C.S.  Rosenberry,  D. Stainbrook, B.D. Wallingford, and W.D. Walter. 2025. Intraspecific contact among white-tailed deer: a literature review and chronic wasting disease case study. Ecology and Evolution
+
+Navarro, D., A.K. Tallon,  E.K.  Latch,  C.N. Ott-Conn,  R.W.  DeYoung,  D.P.  Walsh,  P.T.  Euclide,  B.C.  Ganesh,  W.A.  Larson,  A.S. Seetharam,  A.J.  Severin,  J.M.  Reecy,  Z. Hu,  J.R. Cantrell,  M.  Carstensen,  J.N. Caudell,   C.H.   Killmaster,  M.L.  Lockwood,  W.T. McKinley,  A.S.  Norton,  K.L. Schuler,  D.J. Storm,  J.A. Sumners,  W.D. Walter,  J.A.  Blanchong.  2025.  Development of high-throughput genomic resources to inform white-tailed deer population and disease management.  Molecular Ecology Resources
 
 
 ### Unpublished Technical Reports
