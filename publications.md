@@ -5,7 +5,7 @@ title: "Publications"
 
 **Most Recent (2020-2025)**
 
-Diefenbach, D. R., M. J. Cherry, S. D. Cote, R. W. DeYoung, S. A. Gallina Tessaro, B. R. Patterson, and W.D. Walter. 2024. Chapter 49. White-tailed Deer *Odocoileus virginianus* (Zimmerman 1780). In M. Mellotti and , Eds. Deer of the World. Springer *In press*. 
+Diefenbach, D. R., M. J. Cherry, S. D. Cote, R. W. DeYoung, S. A. Gallina Tessaro, B. R. Patterson, and W.D. Walter. 2024. Chapter 49. White-tailed Deer *Odocoileus virginianus* (Zimmerman 1780). In M. Mellotti and S. Focardi, Eds. Deer of the World. Springer *In press*. 
 
 Pepin, KM, MA Combs, G Bastille-Rousseau, ME Craft, P Cross, MA Diuk-Wasser, RB Gagne, T Gallo, T Garwood, JD Heale, J Hewitt, J Høy-Petersen, J Malmberg, J Mullinax, L Plimpton, L Smith, MC VanAcker, K VerCauteren, JC Chandler, WD Walter, G Wilson-Henjum, G Wittemyer, K Manlove. 2025. Expanding national-scale wildlife disease intelligence systems with research networks. Ecology and Evolution. In press
 
