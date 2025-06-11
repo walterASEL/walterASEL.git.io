@@ -1,14 +1,13 @@
 ---
-title: Join the Lab
+title: Presentations
 description: "Presentations"
-date: 2025-06-10
+date: 2025-06-11
 published-title: Form last updated
 engine: knitr
 freeze: false
 RegForm:
   pdf: "Presentations.pdf"
 ---
-### Presentations 
 
 ```{css, echo=FALSE}
 #title-block-header .description {
