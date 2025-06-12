@@ -5,30 +5,30 @@ title: "Publications"
 
 **Most Recent (2020-2025)**
 
-Diefenbach, D. R., M. J. Cherry, S. D. Cote, R. W. DeYoung, S. A. Gallina Tessaro, B. R. Patterson, and W.D. Walter. 2024. Chapter 49. White-tailed Deer *Odocoileus virginianus* (Zimmerman 1780). In M. Mellotti and S. Focardi, Eds. Deer of the World. Springer *In press*. 
+Diefenbach, D. R., M. J. Cherry, S. D. Cote, R. W. DeYoung, S. A. Gallina Tessaro, B. R. Patterson, and W.D. Walter. 2024. Chapter 49. White-tailed Deer *Odocoileus virginianus* (Zimmerman 1780). In M. Mellotti and S. Focardi, Eds. Deer of the World. Springer Springer 975 pp. [https://doi.org/10.1007/978-3-031-17756-9](https://doi.org/10.1007/978-3-031-17756-9) 
 
-Pepin, KM, MA Combs, G Bastille-Rousseau, ME Craft, P Cross, MA Diuk-Wasser, RB Gagne, T Gallo, T Garwood, JD Heale, J Hewitt, J Høy-Petersen, J Malmberg, J Mullinax, L Plimpton, L Smith, MC VanAcker, K VerCauteren, JC Chandler, WD Walter, G Wilson-Henjum, G Wittemyer, K Manlove. 2025. Expanding national-scale wildlife disease intelligence systems with research networks. Ecology and Evolution. In press
+Pepin, KM, MA Combs, G Bastille-Rousseau, ME Craft, P Cross, MA Diuk-Wasser, RB Gagne, T Gallo, T Garwood, JD Heale, J Hewitt, J Høy-Petersen, J Malmberg, J Mullinax, L Plimpton, L Smith, MC VanAcker, K VerCauteren, JC Chandler, WD Walter, G Wilson-Henjum, G Wittemyer, K Manlove. 2025. Expanding national-scale wildlife disease intelligence systems with research networks. Ecology and Evolution 15: e71492. [https://doi.org/10.1002/ece3.71492](https://doi.org/10.1002/ece3.71492).
 
 Hewitt, J., G. Wilson-Henjum, J.C. Chandler, A. Phillips, D.G. Diel, W.D. Walter, A. Baker, J. Høy-Petersen, G. Bastille-Rousseau, T. Kishimoto, G. Wittemyer, J. Alder, K.R., S. Hathaway, K.R. Manlove, T. Gallo, J. Mullinax, C. Coriell, M. Payne, M.E. Craft, T.J. Garwood, T.M. Wolf, M.A. Diuk-Wasser, M.C. VanAcker, L.D. Plimton, M.Q. Wilber, D. Grove, J. Koseiwska, L.I. Muller, K.M. Pepin. 2025. Evaluation of SARS-CoV-2 antibody detection methods for wild Cervidae. Preventive Veterinary Medicine 106522.
 
-Diefenbach, D. R., J. Trowbridge, A. Van Buskirk, T. McConnell, K. Lamp, T. A. Marques, W. D. Walter, B. D. Wallingford, and C. S. Rosenberry. 2025. Accounting for non-random samples with distance sampling to estimate population density. Journal of Applied Ecology.62, 986–994. https://doi.org/10.1111/1365-2664.70006
+Diefenbach, D. R., J. Trowbridge, A. Van Buskirk, T. McConnell, K. Lamp, T. A. Marques, W. D. Walter, B. D. Wallingford, and C. S. Rosenberry. 2025. Accounting for non-random samples with distance sampling to estimate population density. Journal of Applied Ecology.62, 986–994. [https://doi.org/10.1111/1365-2664.70006](https://doi.org/10.1111/1365-2664.70006)
 
-Walter, W.D., A. Herbst, C. Lue, J. Bartz, and M.C. Hopkins. 2025. Overview of North American isolates of chronic wasting disease used for strain research. Special Issue: Advances in Chronic Wasting Disease, Pathogens 14:250; https://doi.org/10.3390/pathogens14030250
+Walter, W.D., A. Herbst, C. Lue, J. Bartz, and M.C. Hopkins. 2025. Overview of North American isolates of chronic wasting disease used for strain research. Special Issue: Advances in Chronic Wasting Disease, Pathogens 14:250; [https://doi.org/10.3390/pathogens14030250](https://doi.org/10.3390/pathogens14030250).
 
-Fameli, A., C.S. Jennelle, J. Edson, E. Hildebrand, M. Carstensen, and W.D. Walter. 2024. Relatedness of white-tailed deer from culling efforts within disease management zones in Minnesota. Special Issue on Advances in Chronic Wasting Disease, Pathogens 14:67; https://doi.org/10.3390/pathogens14010067
+Fameli, A., C.S. Jennelle, J. Edson, E. Hildebrand, M. Carstensen, and W.D. Walter. 2024. Relatedness of white-tailed deer from culling efforts within disease management zones in Minnesota. Special Issue on Advances in Chronic Wasting Disease, Pathogens 14:67; [https://doi.org/10.3390/pathogens14010067](https://doi.org/10.3390/pathogens14010067)
 
 Atmeh, K., et al. 2024. Neonatal antipredator tactics shape female movement patterns in large herbivores. Nature in Ecology and Evolution. [https://doi.org/10.1038/s41559-024-02565-8](https://doi.org/10.1038/s41559-024-02565-8).
 
 Corondi, A.M, J.D. Brown, J.E. Banfield, and W.D. Walter. 2024. Comparison of butorphanol-azaperone-medetomidine and nalbuphine-medetomidine-azaperone in free-ranging elk (*Cervus canadensis*) in Pennsylvania. Journal of Wildlife Diseases 60(4): 950-955.
 
-Bondo, K.J., C.S. Rosenberry, D. Stainbrook, W.D. Walter. 2024. Comparing risk of chronic wastingdisease occurrence using Bayesian hierarchical spatial models and different surveillance types. Ecological Modeling 493:110756 10.1016/j.ecolmodel.2024.110756.
+Bondo, K.J., C.S. Rosenberry, D. Stainbrook, W.D. Walter. 2024. Comparing risk of chronic wastingdisease occurrence using Bayesian hierarchical spatial models and different surveillance types. Ecological Modeling 493:110756 [10.1016/j.ecolmodel.2024.110756](10.1016/j.ecolmodel.2024.110756).
 
-Walter, W.D., A. Fameli, K. Russo-Petrick, J.E. Edson, C.S. Rosenberry, K.L. Schuler, M.J. Tonkovich. Large-scale assessment of genetic structure to assess risk of populations of a large herbivore to chronic wasting disease. Ecology and Evolution 14, e11347 10.1002/ece3.11347.
+Walter, W.D., A. Fameli, K. Russo-Petrick, J.E. Edson, C.S. Rosenberry, K.L. Schuler, M.J. Tonkovich. Large-scale assessment of genetic structure to assess risk of populations of a large herbivore to chronic wasting disease. Ecology and Evolution 14, e11347 [10.1002/ece3.11347](10.1002/ece3.11347).
 
 Pearce, D.L., J.E. Edson, C.S. Jennelle, and W.D. Walter. 2024. Evaluation of DNA yield from various tissue and sampling sources for use in single nucleotide polymorphism panels. Scientific Reports 14, 11340;
-10.1038/s41598-024-56128-9.
+[10.1038/s41598-024-56128-9](10.1038/s41598-024-56128-9).
 
-Schwabenlander, M.D., J.C. Bartz, M. Carstensen, A. Fameli, L. Glaser, R.J. Larsen, M. Li, L.L. Lindsey, J.D. Oliver, R. Shoemaker, G. Rowden, S. Stone, W.D. Walter, T.M. Wolf, P.A. Larsen. 2024. Prion forensics: a multidisciplinary approach to investigate CWD at an illegal deer carcass disposal site. Prion, 18(1):72-86; DOI: 10.1080/19336896.2024.2343298
+Schwabenlander, M.D., J.C. Bartz, M. Carstensen, A. Fameli, L. Glaser, R.J. Larsen, M. Li, L.L. Lindsey, J.D. Oliver, R. Shoemaker, G. Rowden, S. Stone, W.D. Walter, T.M. Wolf, P.A. Larsen. 2024. Prion forensics: a multidisciplinary approach to investigate CWD at an illegal deer carcass disposal site. Prion, 18(1):72-86; [10.1080/19336896.2024.2343298](10.1080/19336896.2024.2343298)
 
 Walter, W.D., B. Hanley, C.E. Them, C. Mitchell, J. D. Kelly, D. Grove, N. Hollingshead, R.C. Abbott, and K. Schuler. 2024. Predicting the odds of chronic wasting disease with the Habitat Risk Software. Spatial and Spatio-Temporal Epidemiology 49:100650.
 
